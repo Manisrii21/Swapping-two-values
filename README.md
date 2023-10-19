@@ -31,6 +31,7 @@ print("The swapped values are")
 
 ```
 # output:
+![Alt text](swapping.png)
 
 
 
