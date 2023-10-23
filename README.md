@@ -20,7 +20,7 @@ End the program
 ## PROGRAM:
 ``` 
 #swapping of two variables
-#Developrd by:Manisri
+#Developrd by: Mani Sri Latha.M
 #Register number:23008627
 n1=int(input())
 n2=int(input())
